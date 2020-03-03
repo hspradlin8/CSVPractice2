@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/MonsterCSV/bin/Debug/netcoreapp3.0/MonsterCSV
+/Users/Heidi/workspace/MonsterCSV/bin/Debug/netcoreapp3.0/MonsterCSV.deps.json
+/Users/Heidi/workspace/MonsterCSV/bin/Debug/netcoreapp3.0/MonsterCSV.runtimeconfig.json
+/Users/Heidi/workspace/MonsterCSV/bin/Debug/netcoreapp3.0/MonsterCSV.runtimeconfig.dev.json
+/Users/Heidi/workspace/MonsterCSV/bin/Debug/netcoreapp3.0/MonsterCSV.dll
+/Users/Heidi/workspace/MonsterCSV/bin/Debug/netcoreapp3.0/MonsterCSV.pdb
+/Users/Heidi/workspace/MonsterCSV/obj/Debug/netcoreapp3.0/MonsterCSV.csprojAssemblyReference.cache
+/Users/Heidi/workspace/MonsterCSV/obj/Debug/netcoreapp3.0/MonsterCSV.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/MonsterCSV/obj/Debug/netcoreapp3.0/MonsterCSV.AssemblyInfo.cs
+/Users/Heidi/workspace/MonsterCSV/obj/Debug/netcoreapp3.0/MonsterCSV.dll
+/Users/Heidi/workspace/MonsterCSV/obj/Debug/netcoreapp3.0/MonsterCSV.pdb
